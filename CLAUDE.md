@@ -1,0 +1,1 @@
+When starting a new project (i.e., no SKILL.md exists yet), read BASELINE.md before doing anything else to establish structure and standards.
